@@ -1,0 +1,10 @@
+Metric,Value
+Original Rows,48895
+Cleaned Rows,48884
+Original Columns,16
+Cleaned Columns,17
+Duplicate Rows,0
+Duplicate Listing IDs,0
+Invalid Prices,0
+Missing Values Remaining,10051
+Price Outliers Flagged,2972
